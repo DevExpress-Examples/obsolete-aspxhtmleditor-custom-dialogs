@@ -1,9 +1,9 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
-* [InsertLinkForm.ascx](./CS/WebSite/DevExpress/ASPxHtmlEditorForms/InsertLinkForm.ascx) (VB: [InsertLinkForm.ascx.vb](./VB/WebSite/DevExpress/ASPxHtmlEditorForms/InsertLinkForm.ascx.vb))
+* [InsertLinkForm.ascx](./CS/WebSite/DevExpress/ASPxHtmlEditorForms/InsertLinkForm.ascx) (VB: [InsertLinkForm.ascx](./VB/WebSite/DevExpress/ASPxHtmlEditorForms/InsertLinkForm.ascx))
 * [InsertLinkForm.ascx.cs](./CS/WebSite/DevExpress/ASPxHtmlEditorForms/InsertLinkForm.ascx.cs) (VB: [InsertLinkForm.ascx.vb](./VB/WebSite/DevExpress/ASPxHtmlEditorForms/InsertLinkForm.ascx.vb))
 <!-- default file list end -->
 # OBSOLETE - ASPxHtmlEditor – How to insert a link with an image
