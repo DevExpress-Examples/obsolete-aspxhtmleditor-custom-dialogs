@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/134059951/10.2.10%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E3464)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -12,9 +7,6 @@
 * [InsertLinkForm.ascx.cs](./CS/WebSite/DevExpress/ASPxHtmlEditorForms/InsertLinkForm.ascx.cs) (VB: [InsertLinkForm.ascx.vb](./VB/WebSite/DevExpress/ASPxHtmlEditorForms/InsertLinkForm.ascx.vb))
 <!-- default file list end -->
 # OBSOLETE - ASPxHtmlEditor – How to insert a link with an image
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3464)**
-<!-- run online end -->
 
 
 <p><strong>OBSOLETE:<br></strong>Starting with version 15.1 custom dialog froms are not supported.<br><br>ASPxHtmlEditor provides a rich API to edit Html content including the capability to operate built-in toolbars. However, sometimes the embedded functionality is not enough, and you may wish to add a custom feature to the default functionality. For instance, ASPxHtmlEditor does not allow end-users to choose an image when inserting a link. Such tasks can be easily implemented by extending built-in dialog forms.</p>
